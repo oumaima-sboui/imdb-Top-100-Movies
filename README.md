@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [About the project](#About-the-project)
-* [About dataset](#About-dataset)
+* [About the dataset](#About-the-dataset)
 * [Technologies and installation](#Technologies-and-installation)
 * [Result](#Result)
 
@@ -10,7 +10,7 @@
 
 ## About the project
 
-This repo contains code for the portfolio project which aims to create and visualize an interactive  dashboard for IMDb Top 100 Movies dataset in Python.
+This repo contains code for a portfolio project which aims to create and visualize an interactive  dashboard for IMDb Top 100 Movies dataset in Python in purpuse to analyse the data and to see it in differents ways.
 
 ## About dataset
 
@@ -37,6 +37,7 @@ Project is created with:
 apart the basic libraries you have to install 
 * [panel](https://panel.holoviz.org/index.html) : an open-source Python library that lets you create custom interactive web apps and dashboards
 * [hvplot](https://hvplot.holoviz.org/index.html) :  a powerful and interactive Pandas-like .plot() API  
+
 You can use either conda or pip.  
 In this project I am  providing the instructions/commands for pip:  
   
