@@ -33,9 +33,9 @@ Project is created with:
 ### installation
 apart the basic libraries you have to install 
 * [panel](https://panel.holoviz.org/index.html) : an open-source Python library that lets you create custom interactive web apps and dashboards
-* [hvplot](https://hvplot.holoviz.org/index.html) :  a powerful and interactive Pandas-like .plot() API \n
+* [hvplot](https://hvplot.holoviz.org/index.html) :  a powerful and interactive Pandas-like .plot() API  
 You can use either conda or pip. In this project i provide the instructions/commands for pip:
-**Panel**
+  **Panel**
 ```
 pip install panel
 ```
@@ -51,5 +51,9 @@ panel serve ise.ipnyb
 ```
 
 ## Result
+
+
+
+https://user-images.githubusercontent.com/70036966/215092546-1eae2017-8d0e-41ec-bc01-e584d9e574eb.mp4
 
 
