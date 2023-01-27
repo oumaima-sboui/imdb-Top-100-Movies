@@ -36,6 +36,8 @@ apart the basic libraries you have to install
 * [hvplot](https://hvplot.holoviz.org/index.html) :  a powerful and interactive Pandas-like .plot() API  
 You can use either conda or pip.  
 In this project I am  providing the instructions/commands for pip:  
+  
+  
 **Panel**
 ```
 pip install panel
