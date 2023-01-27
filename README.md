@@ -1,9 +1,9 @@
 # imdb-Top-100-Movies-interactive-dashbord
 
 ## Table of contents
-* [About the project](#About the project)
-* [About dataset](#About dataset)
-* [Technologies and installation](#Technologies and installation)
+* [About the project](#About-the-project)
+* [About dataset](#About-dataset)
+* [Technologies and installation](#Technologies-and-installation)
 * [Result](#Result)
 
 
