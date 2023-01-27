@@ -12,7 +12,8 @@
 This repo contains code for the portfolio project which aims to create and visualize an interactive  dashboard for IMDb Top 100 Movies dataset in Python.
 
 ## About dataset
-IMDb Top 100 is the list  of highest rated movies of all time  according to IMDb platform ,this dataset is taken from [kaggle's datasets](https://www.kaggle.com/datasets/themrityunjaypathak/imdb-top-100-movies).  Movie in the list ranges from 1972 to 2015.  There are 100 Rows and 9 Columns in the Dataset :
+IMDb Top 100 is the list  of highest rated movies of all time  according to IMDb platform ,this dataset is taken from [kaggle's datasets](https://www.kaggle.com/datasets/themrityunjaypathak/imdb-top-100-movies).  Movie in the list ranges from 1972 to 2015.  
+There are 100 Rows and 9 Columns in the Dataset :
 * movie_name 
 * year_of_release  
 * category
